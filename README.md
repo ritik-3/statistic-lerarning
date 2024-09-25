@@ -6,6 +6,7 @@ Here is everything i will be learning about statistics for data analytics and da
 
 ## Main.ipynb
 `main.ipynb/` this file contains everything i am learning 
+more update are on the way....
 
 
 ## License

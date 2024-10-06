@@ -7,6 +7,8 @@ Here is everything i will be learning about statistics for data analytics and da
 ## Main.ipynb
 `main.ipynb/` this file contains everything i am learning 
 did something but its not updating :) 
+hehe now its workingggg...
+less goooo
 this reposetry contains all the basis, intermediate to advance of statistics..
 more update are on the way....
 

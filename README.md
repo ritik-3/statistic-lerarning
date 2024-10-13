@@ -1,16 +1,32 @@
-# statistic-lerarning
+# Statistics Learning
 
+This repository contains materials and resources for learning statistics, particularly in the context of data analytics and data science using Python.
 
-## Introduction
-Here is everything i will be learning about statistics for data analytics and data science from stratch.
+## Table of Contents
 
-## Main.ipynb
-`main.ipynb/` this file contains everything i am learning 
-did something but its not updating :) 
-hehe now its workingggg...
-less goooo
-this reposetry contains all the basis, intermediate to advance of statistics..
-more update are on the way....
+- [Descriptive Statistics](#descriptive-statistics)
+  - [Mean, Median, Mode](#mean-median-mode)
+  - [Variance and Standard Deviation](#variance-and-standard-deviation)
+  - [Percentiles and Box Plots](#percentiles-and-box-plots)
+
+- [Probability Distributions](#probability-distributions)
+  - [Normal (Gaussian) Distribution](#normal-gaussian-distribution)
+  - [Log-Normal Distribution](#log-normal-distribution)
+  - [Power Law Distribution](#power-law-distribution)
+  - [Pareto Distribution](#pareto-distribution)
+
+- [Statistical Inference](#statistical-inference)
+  - [Hypothesis Testing](#hypothesis-testing)
+    - [Z-Test](#z-test)
+    - [T-Test](#t-test)
+    - [Chi-Square Test](#chi-square-test)
+  - [Confidence Intervals and Margin of Error](#confidence-intervals-and-margin-of-error)
+
+- [Advanced Topics](#advanced-topics)
+  - [ANOVA (Analysis of Variance)](#anova-analysis-of-variance)
+  - [Central Limit Theorem](#central-limit-theorem)
+  - [Type I and Type II Errors](#type-i-and-type-ii-errors)
+  - [Probability Density, Probability Mass, and Cumulative Density Functions](#probability-density-probability-mass-and-cumulative-density-functions)
 
 
 ## License
